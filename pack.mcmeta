@@ -1,0 +1,11 @@
+{
+    "pack": {
+        "pack_format": 12,
+        "description": "A Faithful addon to upscale Voicechat mod's textures."
+    },
+
+    "credits": {
+	   "download": "https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat",
+	   "artists": "Credit to Stridey who made the original textures for this mod and the person/people who made the Faithful GUI."
+    }
+}
